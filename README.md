@@ -27,7 +27,11 @@ This project presents a **Power BI dashboard** that visualizes the current **AI/
 
 | Dashboard View 1 | Dashboard View 2 |
 |------------------|------------------|
-| ![Overview](placeholder_overview.png) | ![Skills](placeholder_skills.png) |
+| ![Overview](Overview.png) | ![Location_Insight](Location_Insight.png) |
+
+| Dashboard View 3 | Dashboard View 4 |
+|------------------|------------------|
+| ![Company_and_Role_Insights](Company_and_Role_Insights.png) | ![Skill_And_Hiring_Insights](Skill_And_Hiring_Insights.png) |
 
 > 💡 **Tip:** Open the `.pbix` file in Power BI Desktop → `File` → `Export` → `PNG` (or use **Snipping Tool**) and drop the images into this section. Then rename them and push to GitHub.
 
