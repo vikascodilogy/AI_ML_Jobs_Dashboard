@@ -23,17 +23,15 @@ This project presents a **Power BI dashboard** that visualizes the current **AI/
 
 ## 🖼️ Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here so recruiters can see it at a glance.
+> Here's a look at the interactive Power BI dashboard — captures the key insights at a glance.
 
-| Dashboard View 1 | Dashboard View 2 |
+| 📊 Overview | 🌍 Location Insights |
 |------------------|------------------|
-| ![Overview.png](Overview.png) | ![Location_Insight](Location_Insight.png) |
+| ![Overview](screenshots/Overview.png) | ![Location Insights](screenshots/Location_Insight.png) |
 
-| Dashboard View 3 | Dashboard View 4 |
+| 🏢 Company & Role Insights | 🧠 Skill & Hiring Insights |
 |------------------|------------------|
-| ![Company_and_Role_Insights](Company_and_Role_Insights.png) | ![Skill_And_Hiring_Insights](Skill_And_Hiring_Insights.png) |
-
-> 💡 **Tip:** Open the `.pbix` file in Power BI Desktop → `File` → `Export` → `PNG` (or use **Snipping Tool**) and drop the images into this section. Then rename them and push to GitHub.
+| ![Company and Role Insights](screenshots/Company_and_Role_Insights.png) | ![Skill and Hiring Insights](screenshots/Skill_And_Hiring_Insights.png) |
 
 ---
 
