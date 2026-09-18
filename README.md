@@ -27,7 +27,7 @@ This project presents a **Power BI dashboard** that visualizes the current **AI/
 
 | Dashboard View 1 | Dashboard View 2 |
 |------------------|------------------|
-| ![Overview](Overview.png) | ![Location_Insight](Location_Insight.png) |
+| ![Overview.png](Overview.png) | ![Location_Insight](Location_Insight.png) |
 
 | Dashboard View 3 | Dashboard View 4 |
 |------------------|------------------|
